@@ -4,4 +4,4 @@
 - 👾 I'm currently working on private 2 projects.
 - 👾 I worked on a project as a Frontend developer.
 - 👾 Planning to work on 2 more personal projects: one centered around the development of a mobile application and the other focused on the creation of a desktop game using the C++ programming language.
-- 👾 I'm interested in various domains within computer science, and I maintain a continuous commitment to expanding my knowledge.
+👾 I'm interested in various domains within computer science, and I maintain a continuous commitment to expanding my knowledge.
